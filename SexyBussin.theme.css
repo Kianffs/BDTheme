@@ -3,12 +3,16 @@
  * @description  A Secret Discord Theme
  * @author       Kianffs
  * @version      1.0
- * @source       https://github.com/monstrousdev/themes/theme-files/Black-Hole.theme.css
 */
 
 
-@import "https://kianffs.github.io/BDTheme/SexyBussin.css";
+@import "https://kianffs.github.io/BDTheme/SexyBussin.css"
 
+:root {
+	--settingsmodalbackground: 	transparent;			/* default:	transparent		(lowest bg color of changed windows, change it in case another theme turns them transparent)	*/
+	--settingsmodalwidth: 		960px;					/* default:	960px			(width of the settings modal, px/vw)															*/
+	--settingsmodalheight: 		80vh;					/* default:	80vh			(height of the settings modal, px/vh)															*/
+}
 
 
 
