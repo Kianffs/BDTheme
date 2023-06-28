@@ -1,1 +1,1 @@
-#idk how to code so fuck it
+idk how to code so fuck it
