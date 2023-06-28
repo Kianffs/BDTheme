@@ -1,1 +1,2 @@
-idk how to code so fuck it
+BlackHoleUltra.css is the full code
+BlackHoleUltra.theme.css is what better discord reads
