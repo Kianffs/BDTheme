@@ -6,7 +6,7 @@
 */
 
 
-@import "https://kianffs.github.io/BDTheme/SexyBussin.css"
+@import "https://kianffs.github.io/BDTheme/SexyBussin.css";
 
 :root {
 	--settingsmodalbackground: 	transparent;			/* default:	transparent		(lowest bg color of changed windows, change it in case another theme turns them transparent)	*/
